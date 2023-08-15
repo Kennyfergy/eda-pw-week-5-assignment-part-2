@@ -1,0 +1,27 @@
+header {
+  background-color: rgb(6, 104, 104);
+  color: blanchedalmond;
+  text-align: center;
+}
+main {
+  background-color: lightgray;
+  padding: 1em;
+}
+
+/*.background-image {
+    background-image: url('../assignment/record.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* specifying img height and width */
+/* width: 2000px;
+    height: 2000px;
+  }*/
+body {
+  margin: 0; /* Remove default margin to cover the entire viewport */
+  padding: 0; /* Remove default padding to cover the entire viewport */
+  background-image: url("../assignment/record.png");
+  background-repeat: repeat;
+  background-size: 350px, 350px;
+  /*background-size: cover;*/
+  background-attachment: fixed; /* Keeps the background fixed while scrolling */
+}
