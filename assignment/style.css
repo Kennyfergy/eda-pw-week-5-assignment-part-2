@@ -1,9 +1,9 @@
-header {
+.header {
   background-color: rgb(6, 104, 104);
   color: blanchedalmond;
   text-align: center;
 }
-main {
+.main {
   background-color: lightgray;
   padding: 1em;
   text-align: center;
